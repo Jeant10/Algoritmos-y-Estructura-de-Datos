@@ -1,0 +1,5 @@
+ALGORITMO: QuickSort
+Elementos originales
+[3][5][4][2][3][4][6][5][7][-5]
+Elementos ordenados
+[-5][2][3][3][4][4][5][5][6][7]
